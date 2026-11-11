@@ -1,6 +1,6 @@
 1. NumPy: 
 1D, 2D Array Creation
-Shape, Data type, Size inspect cheyyaan
+Shape, Data type, Size inspect
 Array operations  Min/Max/Mean 
 Slicing and Indexing
 2. Pandas:
